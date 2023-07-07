@@ -1,1 +1,1 @@
-# scrape
+# scrape all products from the url
